@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔐  **Ethical Hacking & Networking**
-- 💻 Tools: `cisco | Python | Git `
+- 💻 Tools: `cisco | Python | Git | VS  `
 - 🎯 2026 Goal: let's chase dream
 - ⚡ Motto: `sky is your , spreed your wings `
 
