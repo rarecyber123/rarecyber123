@@ -15,8 +15,6 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
 </p>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rarecyber123&show_icons=true&theme=tokyonight)
 
 <!--
 **rarecyber123/rarecyber123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
